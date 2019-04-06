@@ -1,0 +1,10 @@
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.exe.config
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.exe
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\bin\Debug\BabyMonitor.pdb
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csprojAssemblyReference.cache
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.Form1.resources
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.Properties.Resources.resources
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.GenerateResource.cache
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.csproj.CoreCompileInputs.cache
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.exe
+F:\Workspace\BabyMonitor\BabyMonitor\BabyMonitor\obj\Debug\BabyMonitor.pdb
